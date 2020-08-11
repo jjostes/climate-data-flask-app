@@ -50,8 +50,8 @@ John Jostes - [https://www.linkedin.com/in/john-jostes-386b841a0/](https://www.l
 Project Link: [https://github.com/jjostes/climate-data-flask-app](https://github.com/jjostes/climate-data-flask-app)
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[chart]: (https://github.com/jjostes/climate-data-flask-app/tree/master/Figures/Precipitation.png)
-[histogram]: (https://github.com/jjostes/climate-data-flask-app/tree/master/Figures/histogram.png)
-[flask-home]: (https://github.com/jjostes/climate-data-flask-app/tree/master/Figures/flask-app-home.png)
-[example-json]: (https://github.com/jjostes/climate-data-flask-app/tree/master/Figures/query-example.png)
+[chart]: https://github.com/jjostes/climate-data-flask-app/blob/master/Figures/Precipitation.png
+[histogram]: https://github.com/jjostes/climate-data-flask-app/blob/master/Figures/histogram.png
+[flask-home]: https://github.com/jjostes/climate-data-flask-app/blob/master/Figures/flask-app-home.png
+[example-json]: https://github.com/jjostes/climate-data-flask-app/blob/master/Figures/query-example.png
 
