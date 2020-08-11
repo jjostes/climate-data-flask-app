@@ -83,7 +83,6 @@ def tobs():
     return jsonify(tobs_last12)
 
 
-# # #return, WEll we'll get to this in a moment.
 @app.route('/api/v1.0/<start>')
 def start_date(start):
     session = Session(engine)
